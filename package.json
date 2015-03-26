@@ -1,0 +1,25 @@
+{
+  "name": "edgeatx-npm-demo",
+  "version": "1.0.1",
+  "description": "Demo for Bleeding Edge Web Meetup",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edgeatx/npm-demo.git"
+  },
+  "author": "Corey Butler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edgeatx/npm-demo/issues"
+  },
+  "homepage": "https://github.com/edgeatx/npm-demo",
+  "dependencies": {
+    "chalk": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
+}
