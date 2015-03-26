@@ -37,13 +37,13 @@ The code above produces:
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install bewdemo --save
+npm install edgeatx-npm-demo --save
 ```
 
 
 ## Tests
 
-**NOTICE:** You must `git clone https://github.com/coreybutler/demomodule.git` this module to obtain tests.
+**NOTICE:** You must `git clone https://github.com/edgeatx/npm-demo.git` this module to obtain tests.
 
 ```sh
 npm install
